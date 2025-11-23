@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "WhatsApp Bot Premium",
+        "price": 350,
+        "category": "BOT",
+        "img": "https://via.placeholder.com/400",
+        "desc": "Fully automated WhatsApp bot."
+    },
+    {
+        "id": 2,
+        "name": "Telegram Bot Deluxe",
+        "price": 499,
+        "category": "BOT",
+        "img": "https://via.placeholder.com/400",
+        "desc": "Auto tool Telegram bot."
+    },
+    {
+        "id": 3,
+        "name": "API Key Generator",
+        "price": 799,
+        "category": "API",
+        "img": "https://via.placeholder.com/400",
+        "desc": "Secure API key system."
+    },
+    {
+        "id": 4,
+        "name": "Premium Tools Pack",
+        "price": 1499,
+        "category": "PREMIUM",
+        "img": "https://via.placeholder.com/400",
+        "desc": "All premium tools bundle."
+    },
+    {
+        "id": 5,
+        "name": "AI ChatBot",
+        "price": 999,
+        "category": "BOT",
+        "img": "https://via.placeholder.com/400",
+        "desc": "AI automated chatbot."
+    }
+]

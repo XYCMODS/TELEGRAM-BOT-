@@ -1,0 +1,12 @@
+body{margin:0;font-family:Poppins;background:#f4f4f4}
+.header{background:#111;color:#fff;padding:15px 25px;display:flex;justify-content:space-between}
+.header a{color:#fff;margin-left:18px;text-decoration:none}
+.logo{font-size:26px;font-weight:700}
+.hero{text-align:center;padding:80px;background:#222;color:#fff}
+.product-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px;padding:20px}
+.product-card{background:#fff;padding:15px;border-radius:12px;box-shadow:0 3px 10px rgba(0,0,0,0.1);cursor:pointer;transition:.2s}
+.product-card:hover{transform:scale(1.05)}
+.single{display:flex;gap:20px;padding:20px}
+.single img{width:350px;border-radius:10px}
+.cart-container{padding:20px}
+.searchBox{text-align:center;padding:20px}
