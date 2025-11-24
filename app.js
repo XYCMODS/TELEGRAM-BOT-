@@ -1,1 +1,0 @@
-console.log('neon full site loaded');
